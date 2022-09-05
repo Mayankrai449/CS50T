@@ -1,0 +1,32 @@
+ header {
+      text-align: center;
+      font-size: 60px;
+    }
+
+    main {
+      text-align: left;
+      font-size: 25px;
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid;
+    }
+
+    table {
+      width: 50%;
+    }
+
+    table {
+      height: 300px;
+    }
+
+    table {
+      background-color: gold;
+      color: blue;
+    }
+
+    table {
+      margin-top: 400px;
+    }
